@@ -1,4 +1,4 @@
-# Tea-mini-eCommerce
+# Tea-mini-eCommerce Website
 
 ## Task
 To develop a mini- ecommerce website utilising the lastest HTML5 and CSS3 technologies.Also ensuring that the website was fully responsive.
