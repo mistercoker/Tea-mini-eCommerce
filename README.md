@@ -26,3 +26,5 @@ A simpe design with responsive capabilites across all major formats such as web,
 - HTML5
 - CSS3
 - JavaScript
+- Netlify
+- GIT
