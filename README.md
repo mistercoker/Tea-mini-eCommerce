@@ -23,7 +23,7 @@ I developed a simple mini-ecommerce website to improve my skills and understandi
 A simpe design with responsive capabilites across all major formats such as web, mobile and tablets. The whole was idea is make user experience of the user seamless.
 
 ## Tech Stack
-- HTML5
+- HTML
 - CSS3
 - JavaScript
 - Netlify
